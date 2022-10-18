@@ -67,4 +67,4 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 ---
 
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/MohamedRiadh-Sohnoun/readme-chess)!
+Do you want to make your own? Check out [MohamedRiadh-Sohnoun/readme-chess](https://github.com/MohamedRiadh-Sohnoun/readme-chess)!
